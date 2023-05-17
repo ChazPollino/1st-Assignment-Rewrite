@@ -1,0 +1,11 @@
+C:\Users\Dusty4G\source\repos\New Hello World\New Hello World\bin\Debug\New Hello World.exe.config
+C:\Users\Dusty4G\source\repos\New Hello World\New Hello World\bin\Debug\New Hello World.exe
+C:\Users\Dusty4G\source\repos\New Hello World\New Hello World\bin\Debug\New Hello World.pdb
+C:\Users\Dusty4G\source\repos\New Hello World\New Hello World\obj\Debug\New Hello World.csproj.AssemblyReference.cache
+C:\Users\Dusty4G\source\repos\New Hello World\New Hello World\obj\Debug\New Hello World.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dusty4G\source\repos\New Hello World\New Hello World\obj\Debug\New_Hello_World.Properties.Resources.resources
+C:\Users\Dusty4G\source\repos\New Hello World\New Hello World\obj\Debug\New Hello World.csproj.GenerateResource.cache
+C:\Users\Dusty4G\source\repos\New Hello World\New Hello World\obj\Debug\New Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Dusty4G\source\repos\New Hello World\New Hello World\obj\Debug\New Hello World.exe
+C:\Users\Dusty4G\source\repos\New Hello World\New Hello World\obj\Debug\New Hello World.pdb
+C:\Users\Dusty4G\source\repos\New Hello World\New Hello World\obj\Debug\New_Hello_World.ClickTheButton.resources
